@@ -8,4 +8,6 @@ Source: [https://ogc.muenchen.de/wms/opendata_luftbild](https://ogc.muenchen.de/
 
 Cache format: XYZ web tiles (up to zoom level 18)
 
+URL: https://raw.githubusercontent.com/easz/opendata_luftbild_dop60_Y2017/main/{z}/{x}/{y}.png
+
 License: [Data licence Germany – attribution – version 2.0](https://www.govdata.de/dl-de/by-2-0)
